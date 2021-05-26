@@ -1,3 +1,5 @@
+content-type: application/javascript;charset=utf-8
+
 try {
     if (!game_data.features.Premium.active) {
         UI.ErrorMessage("Le compte a besoin d'un compte premium pour utiliser ce script.");
